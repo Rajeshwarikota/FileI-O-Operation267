@@ -31,6 +31,10 @@ namespace SerialiazationAndDeserialiazation
                     CSVOperations.CsvSerialization();
                     CSVOperations.CsvDeSerialization();
                     break;
+                case 5:
+                    JSONOperations.JSONSerialization();
+                    JSONOperations.JSONDeSerialization();
+                    break;
             }
             Console.ReadLine();
         }
