@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfContact xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Contact>
+    <Id>4</Id>
+    <Name>sailu</Name>
+    <Address>Hyderabad</Address>
+  </Contact>
+  <Contact>
+    <Id>5</Id>
+    <Name>asifa</Name>
+    <Address>Delhi</Address>
+  </Contact>
+  <Contact>
+    <Id>6</Id>
+    <Name>Neetha</Name>
+    <Address>Bangalore</Address>
+  </Contact>
+</ArrayOfContact>

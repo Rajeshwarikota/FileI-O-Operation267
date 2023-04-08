@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfContact xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Contact>
+    <Id>4</Id>
+    <Name>sailu</Name>
+    <Address>Hyderabad</Address>
+    <StartDate>0001-01-01T00:00:00</StartDate>
+  </Contact>
+  <Contact>
+    <Id>5</Id>
+    <Name>asifa</Name>
+    <Address>Delhi</Address>
+    <StartDate>0001-01-01T00:00:00</StartDate>
+  </Contact>
+  <Contact>
+    <Id>6</Id>
+    <Name>Neetha</Name>
+    <Address>Bangalore</Address>
+    <StartDate>0001-01-01T00:00:00</StartDate>
+  </Contact>
+</ArrayOfContact>
