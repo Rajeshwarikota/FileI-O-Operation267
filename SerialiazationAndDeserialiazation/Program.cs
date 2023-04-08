@@ -27,6 +27,10 @@ namespace SerialiazationAndDeserialiazation
                     xmlOperations.XmlSerialization();
                     xmlOperations.XmlDeSerialization();
                     break;
+                case 4:
+                    CSVOperations.CsvSerialization();
+                    CSVOperations.CsvDeSerialization();
+                    break;
             }
             Console.ReadLine();
         }
