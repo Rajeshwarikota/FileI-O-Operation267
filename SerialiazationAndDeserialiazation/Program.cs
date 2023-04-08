@@ -23,6 +23,10 @@ namespace SerialiazationAndDeserialiazation
                     BinaryOperation.Serialization();
                     BinaryOperation.DeSerialization();
                     break;
+                case 3:
+                    xmlOperations.XmlSerialization();
+                    xmlOperations.XmlDeSerialization();
+                    break;
             }
             Console.ReadLine();
         }
