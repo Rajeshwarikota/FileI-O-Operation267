@@ -19,6 +19,10 @@ namespace SerialiazationAndDeserialiazation
                 case 1:
                     BasicOperations.Operations();
                     break;
+                case 2:
+                    BinaryOperation.Serialization();
+                    BinaryOperation.DeSerialization();
+                    break;
             }
             Console.ReadLine();
         }

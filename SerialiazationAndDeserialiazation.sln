@@ -5,6 +5,11 @@ VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerialiazationAndDeserialiazation", "SerialiazationAndDeserialiazation\SerialiazationAndDeserialiazation.csproj", "{05CBC1B9-26B3-4806-9A87-D1F62722C33A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C11838A2-CEB5-44B0-8A3B-79858B4D012C}"
+	ProjectSection(SolutionItems) = preProject
+		abcd.txt = abcd.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
